@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - contact.qmd
+
+website:
+  title: Southern Clarity New Zealand
+  description: "Southern Clarity is a New Zealand-based company specialising in reproducable workflows and data science solutions. We are passionate about helping our clients achieve clarity and insight from their data, enabling them to make informed decisions and drive innovation."
+  favicon: favicon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    center: "© 2026 Southern Clarity NZ LTD. All rights reserved."
+
+format:
+  html:
+    theme: default
+    css: blog.css
+    toc: false

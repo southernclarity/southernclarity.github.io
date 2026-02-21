@@ -1,0 +1,42 @@
+---
+title: "Practical AI for small business"
+body-classes: landing-page
+---
+
+::: {.hero}
+::: {.container}
+::: {.eyebrow}
+Landing Page
+:::
+
+# Practical AI for small business
+
+Southern Clarity helps teams adopt AI with clear, practical solutions that save time and improve decisions.
+
+::: {.hero-actions}
+[Talk to us](contact.qmd){.button}
+[What we focus on](#services){.button .button-secondary}
+:::
+:::
+:::
+
+::: {.section .container #services}
+## What we focus on
+
+::: {.template-grid}
+::: {.template-card}
+### Automation
+Cut repetitive work with lightweight AI-powered workflows.
+:::
+
+::: {.template-card}
+### Knowledge
+Turn company documents into quick, searchable answers.
+:::
+
+::: {.template-card}
+### Support
+Deploy assistant experiences tailored to your customers.
+:::
+:::
+:::
