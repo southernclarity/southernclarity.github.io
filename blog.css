@@ -316,6 +316,14 @@ body {
 .contact-form-embed iframe {
   display: block;
   width: 100%;
+  height: clamp(900px, 82vh, 1260px);
+  border: 0;
+}
+
+@media (max-width: 768px) {
+  .contact-form-embed iframe {
+    height: min(78vh, 980px);
+  }
 }
 
 .contact-form input,

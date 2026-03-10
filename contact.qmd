@@ -12,6 +12,6 @@ You can use this form to discuss:
 - dashboard and interactive decision-support tool development
 
 ::: {.contact-form-embed}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflMSCkD7V5EHzP6s8HobP6YRhNtr8Ji3t6Q5Ky5HDuzbse7g/viewform?embedded=true" width="100%" height="1260" frameborder="0" marginheight="0" marginwidth="0" loading="lazy">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflMSCkD7V5EHzP6s8HobP6YRhNtr8Ji3t6Q5Ky5HDuzbse7g/viewform?embedded=true" title="Southern Clarity contact form" width="100%" frameborder="0" marginheight="0" marginwidth="0" loading="lazy">Loading...</iframe>
 :::
 :::

@@ -1,5 +1,125 @@
+# ------------------------------
+# Quarto build artifacts
+# ------------------------------
 .quarto/
 **/*.quarto_ipynb
 _site/
+
+# ------------------------------
+# R: session and user-specific files
+# ------------------------------
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Rtmp*
+
+# ------------------------------
+# RStudio project/user files
+# ------------------------------
+.Rproj.user/
+
+# ------------------------------
+# R package build/check artifacts
+# ------------------------------
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+
+# ------------------------------
+# R Markdown / knitr caches and intermediates
+# ------------------------------
+*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+
+# ------------------------------
+# R environment / auth secrets
+# ------------------------------
+.Renviron
+.httr-oauth
+
+# ------------------------------
+# Python: bytecode, caches, tooling, builds
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+
+# Type checkers / linters
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
+.pyre/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment and dependency managers
+.env
+.env.*
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+__pypackages__/
+poetry.lock
+Pipfile.lock
+
+# IDE/editor
+.vscode/
+.idea/
+
+# ------------------------------
+# Note: docs/ is intentionally tracked for GitHub Pages publishing.
+# ------------------------------
 
 /.quarto/
