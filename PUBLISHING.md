@@ -21,6 +21,7 @@ This file is for repository workflow documentation and is **not rendered into th
   - Source: **Deploy from a branch**
   - Branch: `main`
   - Folder: `/docs`
+- Do not use GitHub Actions for deployment; this repo publishes directly from committed static files.
 
 ## Notes
 

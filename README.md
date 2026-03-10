@@ -23,6 +23,7 @@ This repository uses **Quarto** as the single source of truth for the website.
 - Quarto writes static output to `docs/`.
 - Commit and push `docs/` to publish changes.
 - In GitHub Pages settings, use **Deploy from a branch** with `main` and `/docs`.
+- No GitHub Actions workflow is required for publishing.
 - See `PUBLISHING.md` for the step-by-step checklist (repo documentation only; not rendered to the website).
 
 ## Important
