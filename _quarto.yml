@@ -17,9 +17,6 @@ website:
       - href: contact.qmd
         text: Contact
     right:
-      - icon: github
-        href: https://github.com/southernclarity/
-        aria-label: GitHub
       - icon: linkedin
         href: https://www.linkedin.com/company/southern-clarity-nz
         aria-label: LinkedIn
