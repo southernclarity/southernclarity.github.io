@@ -21,11 +21,18 @@
     "text": "Our philosophy\n\nClarity, rigour, and client ownership are central to every engagement.\n\n\n\nClient ownership\nYou retain full ownership of your data, code, and tools.\n\n\nTransparent methods\nApproaches are documented, reproducible, and easy to communicate to technical and non-technical audiences.\n\n\nDecision-ready outputs\nDeliverables are designed to support real decisions, not just static analysis reports."
   },
   {
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "Statistics and Decision Support",
+    "section": "What we do",
+    "text": "What we do\n\nPlaceholder intro text: add a short statement that summarises your service approach and the outcomes you deliver.\n\n\n\nPlaceholder service area 1\nPlaceholder copy: describe a core service, who it is for, and the decision it supports.\n\n\nPlaceholder service area 2\nPlaceholder copy: add a short example, optional metric, or note where an image/case link could be placed.\n\n\nPlaceholder service area 3\nPlaceholder copy: explain the delivery format (for example workshop, model, dashboard, or advisory support)."
+  },
+  {
     "objectID": "index.html#selected-work",
     "href": "index.html#selected-work",
     "title": "Statistics and Decision Support",
     "section": "Selected work",
-    "text": "Selected work\n\n\n\n\nQGIS workshop for Trap & Trigger Ltd\nBuilt reusable mapping workflows for operational teams, including data import standards, geoprocessing patterns, and export-ready outputs to reduce repeated manual steps.\n\n\n\n\n\nKakī population modelling for the Department of Conservation\nDeveloped an integrated modelling framework to support long-term planning, quantify uncertainty, and identify where management effort can have the greatest impact."
+    "text": "Selected work\n\n\n\n\nQGIS workshop for Trap & Trigger Ltd \nBuilt reusable mapping workflows for operational teams, including data import standards, geoprocessing patterns, and export-ready outputs to reduce repeated manual steps. Read more\n\n\n\n\n\nKakī population modelling for the Department of Conservation \nDeveloped an integrated modelling framework to support long-term planning, quantify uncertainty, and identify where management effort can have the greatest impact. Read more"
   },
   {
     "objectID": "index.html#who-we-are",
@@ -33,12 +40,5 @@
     "title": "Statistics and Decision Support",
     "section": "Who we are",
     "text": "Who we are\nSouthern Clarity NZ was co-founded in 2025. Our work is led by strong applied consulting experience in statistical modelling, decision support, and production-ready analytical tool development.\nStefan brings 9+ years of consulting and delivery experience across government and industry contexts, with specialist capability in Bayesian modelling, advanced statistical analysis, and reproducible workflow design.\n\nCore tools: R, QGIS, GitHub, Docker, and carefully applied AI-assisted tooling where it improves delivery quality and scalability."
-  },
-  {
-    "objectID": "index.html#what-we-do",
-    "href": "index.html#what-we-do",
-    "title": "Statistics and Decision Support",
-    "section": "What we do",
-    "text": "What we do\n\nPlaceholder intro text: add a short statement that summarises your service approach and the outcomes you deliver.\n\n\n\nPlaceholder service area 1\nPlaceholder copy: describe a core service, who it is for, and the decision it supports.\n\n\nPlaceholder service area 2\nPlaceholder copy: add a short example, optional metric, or note where an image/case link could be placed.\n\n\nPlaceholder service area 3\nPlaceholder copy: explain the delivery format (for example workshop, model, dashboard, or advisory support)."
   }
 ]
