@@ -117,6 +117,7 @@ Pipfile.lock
 # IDE/editor
 .vscode/
 .idea/
+southernclarity.github.io.code-workspace
 
 # ------------------------------
 # Note: docs/ is intentionally tracked for GitHub Pages publishing.

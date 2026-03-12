@@ -4,6 +4,10 @@ body-classes: landing-page
 ---
 
 ::: {.hero}
+<div class="hero-media" aria-hidden="true">
+<img src="images/New_banner_image-1200.jpg" srcset="images/New_banner_image-768.jpg 768w, images/New_banner_image-1200.jpg 1200w, images/New_banner_image-1536.jpg 1536w" sizes="(max-width: 1087px) 92vw, 1000px" alt="" class="hero-banner" fetchpriority="high" decoding="async">
+</div>
+
 ::: {.container}
 ::: {.eyebrow}
 Statistics and decision support consultancy
@@ -70,22 +74,47 @@ Deliverables are designed to support real decisions, not just static analysis re
 :::
 :::
 
+::: {.section .container #what-we-do-overview}
+## What we do
+
+::: {.section-intro}
+Placeholder intro text: add a short statement that summarises your service approach and the outcomes you deliver.
+:::
+
+::: {.template-grid}
+::: {.template-card}
+### Placeholder service area 1
+Placeholder copy: describe a core service, who it is for, and the decision it supports.
+:::
+
+::: {.template-card}
+### Placeholder service area 2
+Placeholder copy: add a short example, optional metric, or note where an image/case link could be placed.
+:::
+
+::: {.template-card}
+### Placeholder service area 3
+Placeholder copy: explain the delivery format (for example workshop, model, dashboard, or advisory support).
+:::
+:::
+:::
+
 ::: {.section .container #selected-work}
 ## Selected work
 
 ::: {.case-grid}
 ::: {.case-card}
-![QGIS workshop with Trap & Trigger Ltd](images/post_jan_2026_2_qgis_workshop.jpeg){.case-image}
+<img src="images/post_jan_2026_2_qgis_workshop.jpeg" alt="QGIS workshop with Trap and Trigger Ltd" class="case-image">
 
-### QGIS workshop for Trap & Trigger Ltd
-Built reusable mapping workflows for operational teams, including data import standards, geoprocessing patterns, and export-ready outputs to reduce repeated manual steps.
+### [QGIS workshop for Trap & Trigger Ltd](https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-title-link} <a href="https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI" class="case-title-icon" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn post"><i class="bi bi-link-45deg" aria-hidden="true"></i></a>
+Built reusable mapping workflows for operational teams, including data import standards, geoprocessing patterns, and export-ready outputs to reduce repeated manual steps. [Read more](https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.button .case-read-more target="_blank" rel="noopener noreferrer"}
 :::
 
 ::: {.case-card}
-![Kakī population modelling support](images/post_jan_2026_1_kaki_1.jpg){.case-image}
+<img src="images/post_jan_2026_1_kaki_1.jpg" alt="Kaki population modelling support" class="case-image">
 
-### Kakī population modelling for the Department of Conservation
-Developed an integrated modelling framework to support long-term planning, quantify uncertainty, and identify where management effort can have the greatest impact.
+### [Kakī population modelling for the Department of Conservation](https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-title-link} <a href="https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI" class="case-title-icon" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn post"><i class="bi bi-link-45deg" aria-hidden="true"></i></a>
+Developed an integrated modelling framework to support long-term planning, quantify uncertainty, and identify where management effort can have the greatest impact. [Read more](https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.button .case-read-more target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
