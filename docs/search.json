@@ -32,7 +32,7 @@
     "href": "index.html#selected-work",
     "title": "Statistics and Decision Support",
     "section": "Selected work",
-    "text": "Selected work\n\n\n\n\nQGIS workshop for Trap & Trigger Ltd \nBuilt reusable mapping workflows for operational teams, including data import standards, geoprocessing patterns, and export-ready outputs to reduce repeated manual steps. Read more\n\n\n\n\n\nKakī population modelling for the Department of Conservation \nDeveloped an integrated modelling framework to support long-term planning, quantify uncertainty, and identify where management effort can have the greatest impact. Read more"
+    "text": "Selected work\n\n\n\n\nQGIS workshop for Trap & Trigger Ltd \nBuilt reusable mapping workflows for operational teams, including data import standards, geoprocessing patterns, and export-ready outputs to reduce repeated manual steps.\n\n\n\n\n\n\nKakī population modelling for the Department of Conservation \nDeveloped an integrated modelling framework to support long-term planning, quantify uncertainty, and identify where management effort can have the greatest impact."
   },
   {
     "objectID": "index.html#who-we-are",
@@ -40,5 +40,12 @@
     "title": "Statistics and Decision Support",
     "section": "Who we are",
     "text": "Who we are\nSouthern Clarity NZ was co-founded by Stefan Meyer and Anthony Davidson in 2025. Our work is led by strong applied consulting experience in statistical modelling, decision support, and production-ready analytical tool development.\nStefan brings 9+ years of consulting and delivery experience across government and industry contexts, with specialist capability in Bayesian modelling, advanced statistical analysis, and reproducible workflow design. Stefan holds a PhD in Ecology from the University of Otago, New Zealand. EXPAND WITH MORE INFO\nAnthony holds a masters degree in Ecology from the University of Otago, New Zealand, and is a registered mathematics teacher. MORE INFO SUCH AS HIS ECOGOLOGY WORK, AI STUFF ETC.\n\nCore tools: R, QGIS, GitHub, Docker, and carefully applied AI-assisted tooling where it improves delivery quality and scalability."
+  },
+  {
+    "objectID": "index.html#why-southern-clarity",
+    "href": "index.html#why-southern-clarity",
+    "title": "Statistics and Decision Support",
+    "section": "Why Southern Clarity",
+    "text": "Why Southern Clarity\n\nClarity, rigour, and client ownership are central to every engagement.\n\n\n\nClient ownership\nYou retain full ownership of your data, code, and tools.\n\n\nTransparent methods\nApproaches are documented, reproducible, and easy to communicate to technical and non-technical audiences.\n\n\nDecision-ready outputs\nDeliverables are designed to support real decisions, not just static analysis reports."
   }
 ]

@@ -50,7 +50,7 @@ Implement transparent, auditable workflows that update as new data and managemen
 :::
 
 ::: {.section .container #philosophy}
-## Our philosophy
+## Why Southern Clarity
 
 ::: {.section-intro}
 Clarity, rigour, and client ownership are central to every engagement.
@@ -107,14 +107,19 @@ Placeholder copy: explain the delivery format (for example workshop, model, dash
 <img src="images/post_jan_2026_2_qgis_workshop.jpeg" alt="QGIS workshop with Trap and Trigger Ltd" class="case-image">
 
 ### [QGIS workshop for Trap & Trigger Ltd](https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-title-link} <a href="https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI" class="case-title-icon" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn post"><i class="bi bi-link-45deg" aria-hidden="true"></i></a>
-Built reusable mapping workflows for operational teams, including data import standards, geoprocessing patterns, and export-ready outputs to reduce repeated manual steps. [Read more](https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.button .case-read-more target="_blank" rel="noopener noreferrer"}
+Built reusable mapping workflows for operational teams, including data import standards, geoprocessing patterns, and export-ready outputs to  reduce repeated manual steps. 
+
+<!-- **[Read more →](https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-read-more target="_blank" rel="noopener noreferrer"}** -->
 :::
 
 ::: {.case-card}
 <img src="images/post_jan_2026_1_kaki_1.jpg" alt="Kaki population modelling support" class="case-image">
 
 ### [Kakī population modelling for the Department of Conservation](https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-title-link} <a href="https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI" class="case-title-icon" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn post"><i class="bi bi-link-45deg" aria-hidden="true"></i></a>
-Developed an integrated modelling framework to support long-term planning, quantify uncertainty, and identify where management effort can have the greatest impact. [Read more](https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.button .case-read-more target="_blank" rel="noopener noreferrer"}
+Developed an integrated modelling framework to support long-term planning, quantify uncertainty, and identify where management effort can have the greatest impact.
+
+<!-- **[Read more →](https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-read-more target="_blank" rel="noopener noreferrer"}** -->
+
 :::
 :::
 :::
