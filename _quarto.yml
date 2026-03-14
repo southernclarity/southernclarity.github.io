@@ -16,6 +16,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: selected_work.qmd
+        text: Selected work
       - href: contact.qmd
         text: Contact
     right:

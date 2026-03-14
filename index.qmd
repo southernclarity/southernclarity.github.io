@@ -24,10 +24,9 @@ Southern Clarity NZ is a New Zealand-based statistical modelling and decision-su
 :::
 :::
 
-::: {.section .container #what-we-do}
 
-::: {.section-heading-spacer aria-hidden="true"}
-:::
+::: {.section .container #what-we-do}
+## What we do
 
 We deliver end-to-end analytical solutions combining rigorous statistical modelling, reproducible workflows, and interactive decision-support tools.  Our systems evolve as new data becomes available and new management questions emerge.
 
@@ -45,6 +44,32 @@ Design interactive dashboards and scenario tools that help teams explore data, c
 ::: {.template-card}
 ### Reproducible analytics
 Implement transparent, auditable workflows that update as new data and management questions emerge.
+:::
+:::
+:::
+
+
+::: {.section .container #selected-work}
+## Selected work
+
+::: {.case-grid}
+::: {.case-card}
+<img src="images/post_jan_2026_2_qgis_workshop.jpeg" alt="QGIS workshop with Trap and Trigger Ltd" class="case-image">
+
+### [QGIS workshop for Trap & Trigger Ltd](https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-title-link} 
+Built reusable mapping workflows for operational teams, including data import standards, geoprocessing patterns, and export-ready outputs to  reduce repeated manual steps. 
+
+<!-- **[Read more →](https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-read-more target="_blank" rel="noopener noreferrer"}** -->
+:::
+
+::: {.case-card}
+<img src="images/post_jan_2026_1_kaki_1.jpg" alt="Kaki population modelling support" class="case-image">
+
+### [Kakī population modelling for the Department of Conservation](https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-title-link} 
+Developed an integrated modelling framework to support long-term planning, quantify uncertainty, and identify where management effort can have the greatest impact.
+
+<!-- **[Read more →](https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-read-more target="_blank" rel="noopener noreferrer"}** -->
+
 :::
 :::
 :::
@@ -74,55 +99,6 @@ Deliverables are designed to support real decisions, not just static analysis re
 :::
 :::
 
-::: {.section .container #what-we-do-overview}
-## What we do
-
-::: {.section-intro}
-Placeholder intro text: add a short statement that summarises your service approach and the outcomes you deliver.
-:::
-
-::: {.template-grid}
-::: {.template-card}
-### Placeholder service area 1
-Placeholder copy: describe a core service, who it is for, and the decision it supports.
-:::
-
-::: {.template-card}
-### Placeholder service area 2
-Placeholder copy: add a short example, optional metric, or note where an image/case link could be placed.
-:::
-
-::: {.template-card}
-### Placeholder service area 3
-Placeholder copy: explain the delivery format (for example workshop, model, dashboard, or advisory support).
-:::
-:::
-:::
-
-::: {.section .container #selected-work}
-## Selected work
-
-::: {.case-grid}
-::: {.case-card}
-<img src="images/post_jan_2026_2_qgis_workshop.jpeg" alt="QGIS workshop with Trap and Trigger Ltd" class="case-image">
-
-### [QGIS workshop for Trap & Trigger Ltd](https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-title-link} <a href="https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI" class="case-title-icon" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn post"><i class="bi bi-link-45deg" aria-hidden="true"></i></a>
-Built reusable mapping workflows for operational teams, including data import standards, geoprocessing patterns, and export-ready outputs to  reduce repeated manual steps. 
-
-<!-- **[Read more →](https://www.linkedin.com/posts/southern-clarity-nz_in-a-recent-hands-on-qgis-workshop-with-the-activity-7421274186452467712-lDe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-read-more target="_blank" rel="noopener noreferrer"}** -->
-:::
-
-::: {.case-card}
-<img src="images/post_jan_2026_1_kaki_1.jpg" alt="Kaki population modelling support" class="case-image">
-
-### [Kakī population modelling for the Department of Conservation](https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-title-link} <a href="https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI" class="case-title-icon" target="_blank" rel="noopener noreferrer" aria-label="Open LinkedIn post"><i class="bi bi-link-45deg" aria-hidden="true"></i></a>
-Developed an integrated modelling framework to support long-term planning, quantify uncertainty, and identify where management effort can have the greatest impact.
-
-<!-- **[Read more →](https://www.linkedin.com/posts/southern-clarity-nz_stefan-recently-had-the-opportunity-to-visit-activity-7418724129924685824-IL-B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX2XBgBSKZE8R4cwRq-NoJ4vNfwr0Y45YI){.case-read-more target="_blank" rel="noopener noreferrer"}** -->
-
-:::
-:::
-:::
 
 ::: {.section .container #who-we-are}
 ## Who we are

@@ -140,6 +140,10 @@ body {
   overflow: hidden;
 }
 
+.hero + section {
+  margin-top: 30px;
+}
+
 .hero-media {
   position: absolute;
   inset: 0;
@@ -339,9 +343,11 @@ body {
 
 .case-image {
   display: block;
-  width: 100%;
-  height: 220px;
+  width: calc(100% - 32px);
+  height: 240px;
   object-fit: cover;
+  margin: 16px 16px 0 16px;
+  border-radius: 8px;
 }
 
 .case-card h3,

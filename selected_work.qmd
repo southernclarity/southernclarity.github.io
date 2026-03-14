@@ -1,0 +1,21 @@
+# Selected work
+
+::: {.case-grid}
+
+::: {.case-card}
+![](images/workshop.jpg){.case-image}
+
+### QGIS workshop for Trap & Trigger Ltd
+
+Built reusable mapping workflows for operational teams, including data import standards and export-ready outputs.
+:::
+
+::: {.case-card}
+![](images/kaki.jpg){.case-image}
+
+### Kakī population modelling for the Department of Conservation
+
+Developed an integrated modelling framework to support long-term planning and quantify uncertainty.
+:::
+
+:::
