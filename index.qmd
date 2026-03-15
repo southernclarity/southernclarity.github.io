@@ -56,8 +56,6 @@ Implement transparent, auditable workflows that update as new data and managemen
 
 
 
-
-
 ::: {.section .container #selected-work}
 ## Selected work
 
@@ -78,7 +76,7 @@ Implement transparent, auditable workflows that update as new data and managemen
 
   <p>Built an interactive spatial dashboard for Trap &amp; Trigger Ltd that integrates field activity data into a map-based interface, helping teams visualise operational coverage and manage project data in real time.</p>
 
-  <p><a href="" target="_blank" rel="noopener noreferrer">View LinkedIn post →</a></p>
+  <p><a href="https://www.linkedin.com/posts/southern-clarity-nz_conservationtechnology-spatialdata-environmentaldata-activity-7438997562772328448-MJRp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEV75U4BMrAtWXU4q181GGaTRUVxcjTrtwI" target="_blank" rel="noopener noreferrer">View LinkedIn post →</a></p>
 </div>
 
 <div class="case-card">
